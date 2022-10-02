@@ -1,0 +1,35 @@
+{
+  "text.merenc.config.title" : "附魔合并配置",
+  "text.merenc.config.protection" : "合并保护附魔",
+  "text.merenc.config.bow" : "合并无限与经验修补附魔",
+  "text.merenc.config.crossbow" : "合并多重射击与穿刺附魔",
+  "text.merenc.config.weapon" : "合并剑和斧的附魔",
+  "text.merenc.config.trident" : "合并三叉戟附魔",
+  "text.merenc.config.boots" : "合并冰霜行者与深海探索者附魔",
+  "text.merenc.config.silkTouch" : "合并精准采集与时运附魔",
+
+  "text.merenc.config.protection.tooltip" : "无论等级高低，你都可以同时使用全部保护附魔。 [默认 = 是]",
+  "text.merenc.config.bow.tooltip" : "无论等级高低，你都可以同时使用弓箭的全部附魔。 [默认 = 是]",
+  "text.merenc.config.crossbow.tooltip" : "无论等级高低，你都可以同时使用弩的全部附魔。 [默认 = 是]",
+  "text.merenc.config.weapon.tooltip" : "无论等级高低，你都可以同时使用剑和斧的全部附魔。 [默认 = 是]",
+  "text.merenc.config.trident.tooltip" : "无论等级高低，你都可以同时使用三叉戟的全部附魔。 [默认 = 是]",
+  "text.merenc.config.boots.tooltip" : "无论等级高低，你都可以同时使用靴子的全部附魔。 [默认 = 是]",
+  "text.merenc.config.silkTouch.tooltip" : "你可以同时使用所有工具的精准采集与时运附魔。 [默认 = 是]",
+
+  "text.merenc.tooltip.enabledSilkTouch" : "§2精准采集 §f已启用",
+  "text.merenc.tooltip.disabledSilkTouch" : "§2精准采集 §f已禁用",
+  "text.merenc.tooltip.enabledFrostWalker" : "§b冰霜行者 §f已启用",
+  "text.merenc.tooltip.disabledFrostWalker" : "§b冰霜行者 §f已禁用",
+
+  "key.merenc.title" : "附魔合并",
+  "key.merenc.silkTouch" : "切换 精准采集",
+  "key.merenc.frostWalker" : "切换 冰霜行者",
+
+  "enchantment.level.0" : "",
+
+  "text.cloth-config.boolean.value.true": "§a是",
+  "text.cloth-config.boolean.value.false": "§c否",
+  "text.cloth-config.save_and_done": "保存并退出",
+  "text.cloth-config.reset_value": "重置",
+  "text.cloth.reset_value": "重置"
+}
