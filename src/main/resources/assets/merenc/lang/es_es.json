@@ -1,0 +1,5 @@
+{
+  "text.merenc.config.title" : "Merge Enchantments Configuración",
+  "text.merenc.config.blackList" : "Lista negra de Encantamientos",
+  "text.merenc.config.blackList.tooltip" : "pon en la lista los encantamientos que quieras que vuelvan\na la forma preterminada de minecraft.\npor ejemplo:\n - silk_touch\n - fortune"
+}

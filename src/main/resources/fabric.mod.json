@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "merenc",
+	"version": "3.2",
+	"name": "Merge Enchantments",
+	"description": "this mod makes you can merge enchantments that cannot be combined",
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/merge-enchantments",
+		"sources": "https://github.com/Dplayend/Merge-Enchantments",
+		"issues": "https://github.com/Dplayend/Merge-Enchantments/issues"
+	},
+	"license": "CC0-1.0",
+	"icon": "icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [ "com.dplayend.merenc.MergeEnchantments" ],
+		"modmenu": [ "com.dplayend.merenc.handler.HandlerModMenu" ]
+	},
+	"mixins": [ "merenc.mixins.json" ],
+	"depends": {
+		"fabricloader": "*",
+		"fabric": "*",
+		"minecraft": ">=1.19",
+		"java": "*"
+	},
+	"suggests": {
+		"ite": "*",
+		"togenc": "*"
+	},
+	"authors": [ "Dplayend" ],
+	"custom": { "modmenu": { "links": { "modmenu.discord": "https://discord.gg/AsFE4T9FbN" } } }
+}

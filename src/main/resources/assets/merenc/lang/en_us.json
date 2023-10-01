@@ -1,0 +1,5 @@
+{
+  "text.merenc.config.title" : "Merge Enchantments Config",
+  "text.merenc.config.blackList" : "Blacklist Enchantments",
+  "text.merenc.config.blackList.tooltip" : "put in the list the enchantments that you want to return\nto the default form of minecraft.\nfor example:\n - silk_touch\n - fortune"
+}
